@@ -4,6 +4,7 @@ public class Game {
     private String hits;
     private String misses;
 
+    // this is a change to test commit and pushing changes
 //olyjoshone
     private char normalizeGuess(char letter){
         if(! Character.isLetter(letter)){
